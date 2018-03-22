@@ -1786,7 +1786,7 @@ body {
   text-align: left;
 }
 .cid-qN3qxd47hT {
-  padding-top: 15px;
+  padding-top: 135px;
   padding-bottom: 135px;
   background-image: url("../../../assets/images/img-5229-1999x1333.jpg");
 }
@@ -1834,68 +1834,6 @@ body {
   color: #ffffff;
   text-align: right;
 }
-.cid-qMXcczEQQc {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-qMXcczEQQc .mbr-slider .carousel-control {
-  background: #1b1b1b;
-}
-.cid-qMXcczEQQc .mbr-slider .carousel-control-prev {
-  left: 0;
-  margin-left: 2.5rem;
-}
-.cid-qMXcczEQQc .mbr-slider .carousel-control-next {
-  right: 0;
-  margin-right: 2.5rem;
-}
-.cid-qMXcczEQQc .mbr-slider .modal-body .close {
-  background: #1b1b1b;
-}
-.cid-qMXcczEQQc .mbr-gallery-item > div::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background: #554346;
-  background: linear-gradient(to left, #554346, #45505b) !important;
-  opacity: 0;
-  -webkit-transition: 0.2s opacity ease-in-out;
-  transition: 0.2s opacity ease-in-out;
-}
-.cid-qMXcczEQQc .mbr-gallery-item > div:hover .mbr-gallery-title::before {
-  background: transparent !important;
-}
-.cid-qMXcczEQQc .mbr-gallery-item > div:hover:before {
-  opacity: 0.7 !important;
-}
-.cid-qMXcczEQQc .mbr-gallery-title {
-  font-size: .9em;
-  position: absolute;
-  display: block;
-  width: 100%;
-  bottom: 0;
-  padding: 1rem;
-  color: #fff;
-  z-index: 2;
-}
-.cid-qMXcczEQQc .mbr-gallery-title:before {
-  content: " ";
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-  z-index: -1;
-  position: absolute;
-  background: #554346 !important;
-  background: linear-gradient(to left, #554346, #45505b) !important;
-  opacity: 0.7;
-  -webkit-transition: 0.2s background ease-in-out;
-  transition: 0.2s background ease-in-out;
-}
 .cid-qMX8MIKE7T {
   padding-top: 75px;
   padding-bottom: 30px;
@@ -1915,8 +1853,8 @@ body {
   color: #149dcc;
 }
 .cid-qMX7Rt10Xn {
-  padding-top: 90px;
-  padding-bottom: 60px;
+  padding-top: 0px;
+  padding-bottom: 30px;
   background-color: #5b686b;
 }
 .cid-qMX7Rt10Xn .mbr-iconfont {
@@ -2013,27 +1951,89 @@ body {
   color: #f3f4f6;
 }
 .cid-qMX7BqBH71 {
-  padding-top: 30px;
+  padding-top: 0px;
   padding-bottom: 30px;
-  background-color: #ffffff;
+  background-color: #5b686b;
 }
 .cid-qMX7BqBH71 [class^="socicon-"]:before,
 .cid-qMX7BqBH71 [class*=" socicon-"]:before {
   line-height: 44px;
 }
 .cid-qMX7BqBH71 .btn-social {
-  border-color: #97cca2;
+  border-color: #018dd3;
 }
 .cid-qMX7BqBH71 .btn-social:hover {
-  background: #97cca2;
+  background: #018dd3;
 }
 .cid-qMX7BqBH71 .btn-social:hover i.socicon {
-  color: #000000 !important;
+  color: #ffffff !important;
 }
 @media (max-width: 767px) {
   .cid-qMX7BqBH71 .btn {
     font-size: 20px !important;
   }
+}
+.cid-qMXcczEQQc {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qMXcczEQQc .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-qMXcczEQQc .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-qMXcczEQQc .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-qMXcczEQQc .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-qMXcczEQQc .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #554346;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+}
+.cid-qMXcczEQQc .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-qMXcczEQQc .mbr-gallery-item > div:hover:before {
+  opacity: 0.7 !important;
+}
+.cid-qMXcczEQQc .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-qMXcczEQQc .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #554346 !important;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+  opacity: 0.7;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
 }
 .cid-qMXbCegZ6A {
   padding-top: 45px;
@@ -2100,4 +2100,7 @@ body {
 }
 .cid-qMXbCegZ6A .links {
   color: #0f7699;
+}
+.cid-qMXbCegZ6A .copyright > p {
+  color: #232323;
 }
