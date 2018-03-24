@@ -43,7 +43,7 @@
     "google-analytics": "",
     "siteUrl": "undefined",
     "versionFirst": "4.6.2",
-    "uniqCompNum": 35,
+    "uniqCompNum": 36,
     "versionPublish": "4.6.2",
     "screenshot": "screenshot.png"
   },
@@ -576,6 +576,33 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": "1",
+            "socialFacebook": true,
+            "postsNumber": "6",
+            "socialGoogle": false,
+            "socialDisqus": false,
+            "shortName": "",
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-5243-1999x1333.jpg",
+            "overlay": true,
+            "overlayColor": "#232323",
+            "overlayOpacity": "0.8"
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>",
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-z"
         },
         {
           "_styles": {
